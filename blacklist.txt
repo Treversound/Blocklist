@@ -130,3 +130,11 @@
 127.0.0.1 chromesyncpasswords-pa.googleapis.com
 127.0.0.1 clientservices.googleapis.com
 127.0.0.1 cloudtile.photos.microsoft.com
+127.0.0.1 cdnapisec.kaltura.com
+127.0.0.1 push-api.broadmail.de
+127.0.0.1 iam-agof-app.irquest.com
+127.0.0.1 onesignal.com
+127.0.0.1 app.adjust.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 graph.instagram.com
+127.0.0.1 mqtt-mini.facebook.com
