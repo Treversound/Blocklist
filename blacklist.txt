@@ -138,3 +138,10 @@
 127.0.0.1 graph.facebook.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 mqtt-mini.facebook.com
+127.0.0.1 connect.garmin.com
+127.0.0.1 connectapi.garmin.com
+127.0.0.1 gcs-weather.garmin.com
+127.0.0.1 omt.garmin.com
+127.0.0.1 services.garmin.com
+127.0.0.1 static.garmin.com
+127.0.0.1 static.garmincdn.com
