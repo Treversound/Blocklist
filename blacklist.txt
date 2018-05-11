@@ -145,3 +145,4 @@
 127.0.0.1 services.garmin.com
 127.0.0.1 static.garmin.com
 127.0.0.1 static.garmincdn.com
+127.0.0.1 config.ioam.de
