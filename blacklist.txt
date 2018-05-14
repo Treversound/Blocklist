@@ -149,3 +149,9 @@
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 md-a-s.apptimize.com
 127.0.0.1 brahe.apptimize.com
+127.0.0.1 dynamicvenues.venue.maps.api.here.com
+127.0.0.1 mobility.api.here.com
+127.0.0.1 static-1.venue.maps.api.here.com
+127.0.0.1 static.bundles.hybrid.api.here.com
+127.0.0.1 version.hybrid.api.here.com
+127.0.0.1 eula.samsungiotcloud.com
