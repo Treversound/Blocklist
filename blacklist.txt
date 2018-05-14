@@ -155,3 +155,4 @@
 127.0.0.1 static.bundles.hybrid.api.here.com
 127.0.0.1 version.hybrid.api.here.com
 127.0.0.1 eula.samsungiotcloud.com
+127.0.0.1 app-measurement.com
