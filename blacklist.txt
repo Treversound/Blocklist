@@ -147,3 +147,4 @@
 127.0.0.1 static.garmincdn.com
 127.0.0.1 config.ioam.de
 127.0.0.1 gate.hockeyapp.net
+127.0.0.1 md-a-s.apptimize.com
