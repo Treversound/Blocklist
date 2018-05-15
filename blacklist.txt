@@ -161,3 +161,4 @@
 127.0.0.1 importer.hac.data.here.com
 127.0.0.1 download.hybrid.api.here.com
 127.0.0.1 detectportal.firefox.com
+127.0.0.1 img-getpocket-cdn.prod.mozaws.net
