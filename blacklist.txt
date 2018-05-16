@@ -162,3 +162,12 @@
 127.0.0.1 download.hybrid.api.here.com
 127.0.0.1 detectportal.firefox.com
 127.0.0.1 img-getpocket-cdn.prod.mozaws.net
+127.0.0.1 ad-ipd.sxp.smartclip.net
+127.0.0.1 stats-irl.sxp.smartclip.net
+127.0.0.1 px1.vtrtl.de
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 lh4.googleusercontent.com
+127.0.0.1 lh5.googleusercontent.com
+127.0.0.1 lh6.googleusercontent.com
+127.0.0.1 lh3.ggpht.com
+127.0.0.1 lh6.ggpht.com
