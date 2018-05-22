@@ -172,3 +172,7 @@
 127.0.0.1 lh3.ggpht.com
 127.0.0.1 lh6.ggpht.com
 127.0.0.1 snippets.cdn.mozilla.net
+127.0.0.1 stats.datawrapper.de
+127.0.0.1 graph.whatsapp.net
+127.0.0.1 cdnjs.cloudflare.com
+127.0.0.1 datawrapper.dwcdn.net
