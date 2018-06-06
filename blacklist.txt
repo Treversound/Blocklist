@@ -154,6 +154,9 @@
 127.0.0.1 static-1.venue.maps.api.here.com
 127.0.0.1 static.bundles.hybrid.api.here.com
 127.0.0.1 version.hybrid.api.here.com
+127.0.0.1 v153-82-30-8.route.hybrid.api.here.com
+127.0.0.1 places.hybrid.api.here.com
+127.0.0.1 download.vcdn.data.here.com
 127.0.0.1 eula.samsungiotcloud.com
 127.0.0.1 app-measurement.com
 127.0.0.1 img-getpocket.cdn.mozilla.net
@@ -170,6 +173,8 @@
 127.0.0.1 lh5.googleusercontent.com
 127.0.0.1 lh6.googleusercontent.com
 127.0.0.1 lh3.ggpht.com
+127.0.0.1 lh4.ggpht.com
+127.0.0.1 lh5.ggpht.com
 127.0.0.1 lh6.ggpht.com
 127.0.0.1 snippets.cdn.mozilla.net
 127.0.0.1 stats.datawrapper.de
@@ -181,3 +186,9 @@
 127.0.0.1 advertising.amazon.de
 127.0.0.1 graph.whatsapp.net
 127.0.0.1 tools.n-tv.de
+127.0.0.1 xtrapath1.izatcloud.net
+127.0.0.1 xtrapath2.izatcloud.net
+127.0.0.1 xtrapath3.izatcloud.net
+127.0.0.1 search.services.mozilla.com
+127.0.0.1 firefox.settings.services.mozilla.com
+127.0.0.1 blocklists.settings.services.mozilla.com
