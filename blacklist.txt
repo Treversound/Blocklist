@@ -199,3 +199,7 @@
 127.0.0.1 cs4.wettercomassets.com
 127.0.0.1 hello.lqm.io
 127.0.0.1 i-ssl.ligatus.com
+127.0.0.1 consumer.exacttargetapis.com
+127.0.0.1 digitalassetlinks.googleapis.com
+127.0.0.1 skslm.swiftkey.net
+127.0.0.1 public.tableau.com
