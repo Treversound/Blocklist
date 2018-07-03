@@ -204,3 +204,10 @@
 127.0.0.1 digitalassetlinks.googleapis.com
 127.0.0.1 skslm.swiftkey.net
 127.0.0.1 public.tableau.com
+127.0.0.1 location.services.mozilla.com
+127.0.0.1 prod-cdn.sumo.mozilla.net
+127.0.0.1 mozorg.cdn.mozilla.net
+127.0.0.1 support.mozilla.org
+127.0.0.1 static-media-prod-cdn.sumo.mozilla.net
+127.0.0.1 live.mozillamessaging.com
+127.0.0.1 tracking-protection.cdn.mozilla.net
