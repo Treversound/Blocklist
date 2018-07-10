@@ -212,3 +212,9 @@
 127.0.0.1 live.mozillamessaging.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
 127.0.0.1 audio-fac.spotify.com
+127.0.0.1 audio-gc.spotify.com
+127.0.0.1 icanhazip.com
+127.0.0.1 checkip.amazonaws.com
+127.0.0.1 myexternalip.com
+127.0.0.1 ipecho.net
+127.0.0.1 www.trackip.net
