@@ -218,3 +218,4 @@
 127.0.0.1 myexternalip.com
 127.0.0.1 ipecho.net
 127.0.0.1 www.trackip.net
+127.0.0.1 route-token-dispenser.193b.starter-ca-central-1.openshiftapps.com
