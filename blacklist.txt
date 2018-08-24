@@ -222,3 +222,16 @@
 127.0.0.1 heads-ak.spotify.com.edgesuite.net
 127.0.0.1 audio-cf.spotify.com
 127.0.0.1 cdn.rawgit.com
+127.0.0.1 geo-prod.do.dsp.mp-microsoft.com
+127.0.0.1 onecs-live.azureedge.com
+127.0.0.1 arc.msn.com
+127.0.0.1 canonicalizer.ucsuri.tcs
+127.0.0.1 onecs-live.azureedge.net
+127.0.0.1 t.checkappexec.microsoft.com
+127.0.0.1 checkappexec.microsoft.com
+127.0.0.1 players.brightcove.net
+127.0.0.1 nexus.ensighten.com
+127.0.0.1 siteintercept.qualtrics.com
+127.0.0.1 streamingerror.rtl.de
+127.0.0.1 cs9.wac.phicdn.net
+127.0.0.1 audio-ak.spotify.com.edgesuite.net
