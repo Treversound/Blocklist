@@ -244,3 +244,4 @@
 127.0.0.1 id.google.com
 127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
 127.0.0.1 client.wns.windows.com
+127.0.0.1 voledevice-pa.googleapis.com
