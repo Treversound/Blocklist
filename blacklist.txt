@@ -250,3 +250,4 @@
 127.0.0.1 android-safebrowsing.google.com
 127.0.0.1 www8.garmin.com
 127.0.0.1 www.garmin.com
+127.0.0.1 apps.garmin.com
