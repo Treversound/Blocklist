@@ -257,3 +257,5 @@
 127.0.0.1 wpad.fritz.box
 127.0.0.1 manifest.googlevideo.com
 127.0.0.1 services.addons.mozilla.org
+127.0.0.1 check.googlezip.net
+127.0.0.1 datasaver.googleapis.com
