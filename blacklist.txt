@@ -276,3 +276,4 @@
 127.0.0.1 vortex-win-sandbox.data.microsoft.com
 127.0.0.1 alpha.telemetry.microsft.com
 127.0.0.1 oca.telemetry.microsft.com
+127.0.0.1 telemetry.nvidia.com
