@@ -277,3 +277,5 @@
 127.0.0.1 alpha.telemetry.microsft.com
 127.0.0.1 oca.telemetry.microsft.com
 127.0.0.1 telemetry.nvidia.com
+127.0.0.1 optout.adalliance.io
+127.0.0.1 datahub.adalliance.io
