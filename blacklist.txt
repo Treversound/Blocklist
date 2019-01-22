@@ -211,16 +211,12 @@
 127.0.0.1 static-media-prod-cdn.sumo.mozilla.net
 127.0.0.1 live.mozillamessaging.com
 127.0.0.1 tracking-protection.cdn.mozilla.net
-127.0.0.1 audio-fac.spotify.com
-127.0.0.1 audio-gc.spotify.com
 127.0.0.1 icanhazip.com
 127.0.0.1 checkip.amazonaws.com
 127.0.0.1 myexternalip.com
 127.0.0.1 ipecho.net
 127.0.0.1 www.trackip.net
 127.0.0.1 route-token-dispenser.193b.starter-ca-central-1.openshiftapps.com
-127.0.0.1 heads-ak.spotify.com.edgesuite.net
-127.0.0.1 audio-cf.spotify.com
 127.0.0.1 cdn.rawgit.com
 127.0.0.1 geo-prod.do.dsp.mp-microsoft.com
 127.0.0.1 onecs-live.azureedge.com
@@ -234,7 +230,6 @@
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 streamingerror.rtl.de
 127.0.0.1 cs9.wac.phicdn.net
-127.0.0.1 audio-ak.spotify.com.edgesuite.net
 127.0.0.1 display.apester.com
 127.0.0.1 storebadge.azureedge.net
 127.0.0.1 dc.services.visualstudio.com
