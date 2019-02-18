@@ -275,3 +275,5 @@
 127.0.0.1 optout.adalliance.io
 127.0.0.1 datahub.adalliance.io
 127.0.0.1 api.gcs.garmin.com
+127.0.0.1 quicksilver.scdn.co
+127.0.0.1 sb.voicefive.com
