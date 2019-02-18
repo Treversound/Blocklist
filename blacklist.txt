@@ -274,3 +274,4 @@
 127.0.0.1 telemetry.nvidia.com
 127.0.0.1 optout.adalliance.io
 127.0.0.1 datahub.adalliance.io
+127.0.0.1 api.gcs.garmin.com
