@@ -277,3 +277,5 @@
 127.0.0.1 api.gcs.garmin.com
 127.0.0.1 quicksilver.scdn.co
 127.0.0.1 sb.voicefive.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 audio-fac.spotify.com
