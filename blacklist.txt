@@ -279,3 +279,4 @@
 127.0.0.1 sb.voicefive.com
 127.0.0.1 connect.facebook.net
 127.0.0.1 audio-fac.spotify.com
+127.0.0.1 proxy.googlezip.net
