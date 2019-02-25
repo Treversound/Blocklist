@@ -280,3 +280,7 @@
 127.0.0.1 connect.facebook.net
 127.0.0.1 audio-fac.spotify.com
 127.0.0.1 proxy.googlezip.net
+127.0.0.1 scontent-frx5-1.cdninstagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 instagram.com
+127.0.0.1 time.android.com
