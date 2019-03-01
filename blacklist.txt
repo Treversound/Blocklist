@@ -283,4 +283,8 @@
 127.0.0.1 scontent-frx5-1.cdninstagram.com
 127.0.0.1 www.instagram.com
 127.0.0.1 instagram.com
-127.0.0.1 time.android.com
+127.0.0.1 mafo.adalliance.io
+127.0.0.1 l9bjkkhaycw6f8f4.soundcloud.com
+127.0.0.1 tracking.adalliance.io
+127.0.0.1 s240.meetrics.net
+127.0.0.1 yt3.ggpht.com
