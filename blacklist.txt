@@ -288,3 +288,6 @@
 127.0.0.1 tracking.adalliance.io
 127.0.0.1 s240.meetrics.net
 127.0.0.1 yt3.ggpht.com
+127.0.0.1 roomimg.stream.highwebmedia.com
+127.0.0.1 www.icq.com
+127.0.0.1 icq.com
