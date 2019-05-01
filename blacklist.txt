@@ -291,3 +291,4 @@
 127.0.0.1 roomimg.stream.highwebmedia.com
 127.0.0.1 www.icq.com
 127.0.0.1 icq.com
+127.0.0.1 incoming.telemetry.mozilla.org
