@@ -294,4 +294,9 @@
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 e.crashlytics.com
 127.0.0.1 crashdump.spotify.com
-127.0.0.1
+127.0.0.1 connect.garmin.cn
+127.0.0.1 apps.garmin.cn
+127.0.0.1 apps-test.garmin.com
+127.0.0.1 connecttest.garmin.com
+127.0.0.1 push-cloud.n-tv.de
+127.0.0.1 ws-hblatt.vwd-webtech.com
