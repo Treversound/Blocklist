@@ -294,3 +294,4 @@
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 e.crashlytics.com
 127.0.0.1 crashdump.spotify.com
+127.0.0.1
