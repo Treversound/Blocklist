@@ -300,3 +300,4 @@
 127.0.0.1 connecttest.garmin.com
 127.0.0.1 push-cloud.n-tv.de
 127.0.0.1 ws-hblatt.vwd-webtech.com
+127.0.0.1 box.adalliance.io
