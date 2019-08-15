@@ -301,3 +301,4 @@
 127.0.0.1 push-cloud.n-tv.de
 127.0.0.1 ws-hblatt.vwd-webtech.com
 127.0.0.1 box.adalliance.io
+127.0.0.1 widgets.opinary.com
