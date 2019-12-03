@@ -306,3 +306,7 @@
 127.0.0.1 api.instagram.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 firebaseremoteconfig.googleapis.com
+127.0.0.1 her.is
+127.0.0.1 share.here.com
+127.0.0.1 play-fe.googleapis.com
+127.0.0.1 s385.mxcdn.net
