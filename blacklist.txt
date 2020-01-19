@@ -312,3 +312,4 @@
 127.0.0.1 s385.mxcdn.net
 127.0.0.1 appanalytics.wirecard.com
 127.0.0.1 appdynamics-eum.ods.ok-cloud.net
+127.0.0.1 exp.wg.spotify.com
