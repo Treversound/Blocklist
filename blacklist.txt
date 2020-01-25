@@ -321,3 +321,4 @@
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 in.appcenter.ms
 127.0.0.1 firebaseinappmessaging.googleapis.com
+127.0.0.1 footprints-pa.googleapis.com
