@@ -317,3 +317,4 @@
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 time.izatcloud.net
