@@ -323,3 +323,5 @@
 127.0.0.1 firebaseinappmessaging.googleapis.com
 127.0.0.1 footprints-pa.googleapis.com
 127.0.0.1 script.ioam.de
+127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 reminders-pa.googleapis.com
