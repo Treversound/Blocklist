@@ -327,3 +327,4 @@
 127.0.0.1 reminders-pa.googleapis.com
 127.0.0.1 wup-8013fd3e.eu.v2.we-stats.com
 127.0.0.1 log-8013fd3e.eu.v2.we-stats.com
+127.0.0.1 diagnostic-upload.phaseone.com
