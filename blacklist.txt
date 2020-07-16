@@ -229,7 +229,6 @@
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 streamingerror.rtl.de
-127.0.0.1 cs9.wac.phicdn.net
 127.0.0.1 display.apester.com
 127.0.0.1 storebadge.azureedge.net
 127.0.0.1 dc.services.visualstudio.com
@@ -318,7 +317,7 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 time.izatcloud.net
-127.0.0.1 beacons.gvt2.com
+127.0.0.1 beacons.gvt2.comcs9.wac.phicdn.net 
 127.0.0.1 in.appcenter.ms
 127.0.0.1 firebaseinappmessaging.googleapis.com
 127.0.0.1 footprints-pa.googleapis.com
@@ -328,3 +327,7 @@
 127.0.0.1 wup-8013fd3e.eu.v2.we-stats.com
 127.0.0.1 log-8013fd3e.eu.v2.we-stats.com
 127.0.0.1 diagnostic-upload.phaseone.com
+127.0.0.1 traffic.emsservice.de
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 codepush.appcenter.ms
+127.0.0.1 sessions.bugsnag.com
