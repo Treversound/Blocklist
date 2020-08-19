@@ -333,3 +333,6 @@
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 te.technical-service.net
 127.0.0.1 profiles.tagger.opecloud.com
+127.0.0.1 api.xtremepush.com
+127.0.0.1 api.amplitude.com
+127.0.0.1 api.leanplum.com
