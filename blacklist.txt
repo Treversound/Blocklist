@@ -331,3 +331,5 @@
 127.0.0.1 notify.bugsnag.com
 127.0.0.1 codepush.appcenter.ms
 127.0.0.1 sessions.bugsnag.com
+127.0.0.1 te.technical-service.net
+127.0.0.1 profiles.tagger.opecloud.com
