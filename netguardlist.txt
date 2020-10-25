@@ -69,7 +69,7 @@
 127.0.0.1 history.google.com
 127.0.0.1 gridinbound.blob.core.windows.net
 127.0.0.1 d1oxlq5h9kq8q5.cloudfront.net
-127.0.0.1 playatoms-pa.googleapis.com
+0.0.0.0 playatoms-pa.googleapis.com
 127.0.0.1 youtubei.googleapis.com
 127.0.0.1 i.ytimg.com
 127.0.0.1 gllto1.glpals.com
@@ -111,7 +111,7 @@
 127.0.0.1 yalp-store-crash-reports.duckdns.org
 127.0.0.1 dl.google.com
 127.0.0.1 safebrowsing.googleapis.com
-127.0.0.1 ajax.googleapis.com
+0.0.0.0 ajax.googleapis.com
 127.0.0.1 translate.googleapis.com
 127.0.0.1 safebrowsing.google.com
 127.0.0.1 wallet.google.com
@@ -146,7 +146,7 @@
 127.0.0.1 static.garmin.com
 127.0.0.1 static.garmincdn.com
 127.0.0.1 gold.garmin.com
-127.0.0.1 config.ioam.de
+0.0.0.0 config.ioam.de
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 md-a-s.apptimize.com
 127.0.0.1 brahe.apptimize.com
@@ -159,7 +159,7 @@
 127.0.0.1 places.hybrid.api.here.com
 127.0.0.1 download.vcdn.data.here.com
 127.0.0.1 eula.samsungiotcloud.com
-127.0.0.1 app-measurement.com
+0.0.0.0 app-measurement.com
 127.0.0.1 img-getpocket.cdn.mozilla.net
 127.0.0.1 reverse.geocoder.api.here.com
 127.0.0.1 importer.hac.data.here.com
@@ -314,15 +314,15 @@
 127.0.0.1 exp.wg.spotify.com
 127.0.0.1 semanticlocation-pa.googleapis.com
 127.0.0.1 ad.yieldlab.net
-127.0.0.1 googleads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 time.izatcloud.net
-127.0.0.1 beacons.gvt2.comcs9.wac.phicdn.net 
+0.0.0.0 beacons.gvt2.comcs9.wac.phicdn.net 
 127.0.0.1 in.appcenter.ms
 127.0.0.1 firebaseinappmessaging.googleapis.com
 127.0.0.1 footprints-pa.googleapis.com
-127.0.0.1 script.ioam.de
-127.0.0.1 beacons.gcp.gvt2.com
+0.0.0.0 script.ioam.de
+0.0.0.0 beacons.gcp.gvt2.com
 127.0.0.1 reminders-pa.googleapis.com
 127.0.0.1 wup-8013fd3e.eu.v2.we-stats.com
 127.0.0.1 log-8013fd3e.eu.v2.we-stats.com
@@ -336,3 +336,5 @@
 127.0.0.1 api.xtremepush.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.leanplum.com
+0.0.0.0 photosdata-pa.googleapis.com
+0.0.0.0 play-lh.googleusercontent.com
