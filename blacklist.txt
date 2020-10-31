@@ -336,3 +336,6 @@
 127.0.0.1 api.xtremepush.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.leanplum.com
+127.0.0.1 photosdata-pa.googleapis.com
+127.0.0.1 play-lh.googleusercontent.com
+127.0.0.1 www.graph.facebook.com
