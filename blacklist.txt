@@ -339,3 +339,5 @@
 127.0.0.1 photosdata-pa.googleapis.com
 127.0.0.1 play-lh.googleusercontent.com
 127.0.0.1 www.graph.facebook.com
+127.0.0.1 userlocation.googleapis.com
+127.0.0.1 people-pa.googleapis.com
