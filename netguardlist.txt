@@ -338,3 +338,4 @@
 0.0.0.0 api.leanplum.com
 0.0.0.0 photosdata-pa.googleapis.com
 0.0.0.0 play-lh.googleusercontent.com
+0.0.0.0 www.graph.facebook.com
