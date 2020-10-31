@@ -150,16 +150,9 @@
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 md-a-s.apptimize.com
 0.0.0.0 brahe.apptimize.com
-0.0.0.0 dynamicvenues.venue.maps.api.here.com
-0.0.0.0 mobility.api.here.com
-0.0.0.0 static-1.venue.maps.api.here.com
-0.0.0.0 static.bundles.hybrid.api.here.com
-0.0.0.0 version.hybrid.api.here.com
-0.0.0.0 v153-82-30-8.route.hybrid.api.here.com
-0.0.0.0 places.hybrid.api.here.com
-0.0.0.0 download.vcdn.data.here.com
 0.0.0.0 eula.samsungiotcloud.com
 0.0.0.0 app-measurement.com
+0.0.0.0 www.app-measurement.com
 0.0.0.0 img-getpocket.cdn.mozilla.net
 0.0.0.0 reverse.geocoder.api.here.com
 0.0.0.0 importer.hac.data.here.com
