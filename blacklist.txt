@@ -257,3 +257,6 @@
 127.0.0.1 www.graph.facebook.com
 127.0.0.1 userlocation.googleapis.com
 127.0.0.1 people-pa.googleapis.com
+127.0.0.1 d3.ioam.de
+127.0.0.1 config3.ioam.de
+127.0.0.1 mobile.adfarm1.adition.com
