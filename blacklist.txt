@@ -167,7 +167,6 @@
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 consent.truste.com
 127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
-127.0.0.1 client.wns.windows.com
 127.0.0.1 www8.garmin.com
 127.0.0.1 www.garmin.com
 127.0.0.1 apps.garmin.com
